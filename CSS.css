@@ -1,5 +1,5 @@
 body{background-color: #e64135;}
-h1{color: #ffffff;}
+h1,h2{color: #ffffff;}
 p,li,dd{
     font-size: 20px;
     color: #ffffff;
